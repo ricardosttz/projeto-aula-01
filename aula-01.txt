@@ -1,0 +1,9 @@
+●        ls - para visualizar todos os arquivos e pastas do local que abrimos o terminal.
+
+●        mkdir - para criar pastas.
+
+●        cd - para entrar nas pastas.
+
+●        clear - limpa o que está sendo exibido no terminal.
+
+●        exit - fecha o terminal.
